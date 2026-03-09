@@ -34,6 +34,6 @@
 
 A privacy-first, on-device AI agent that executes complex multi-step tasks using a **Plan → Execute → Replan** loop — powered by `gpt-oss:20b` via Ollama with zero cloud dependency.
 
-- 🔒 **Privacy-first** — 100% local execution, data never leaves your machine
-- 🔧 **MCP tool integration** — filesystem, terminal, Kubernetes, Notion, and more
-- 🔄 **Adaptive orchestration** — autonomously pivots strategy based on real-time feedback
+- **Privacy-first** — 100% local execution, data never leaves your machine
+- **MCP tool integration** — filesystem, terminal, Kubernetes, Notion, and more
+- **Adaptive orchestration** — autonomously pivots strategy based on real-time feedback
