@@ -27,3 +27,13 @@
 ## Tools
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=Vim&logoColor=white"/> <img src="https://img.shields.io/badge/Claude Code-D97757?style=flat-square&logo=Anthropic&logoColor=white"/> <img src="https://img.shields.io/badge/Copilot-000000?style=flat-square&logo=GitHubCopilot&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white"/> <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/>
 
+
+# Projects
+## [EasyLocAI](https://github.com/fidemin/easylocai)
+> Fully autonomous agentic workflows running locally — no APIs, no data leaks.
+
+A privacy-first, on-device AI agent that executes complex multi-step tasks using a **Plan → Execute → Replan** loop — powered by `gpt-oss:20b` via Ollama with zero cloud dependency.
+
+- 🔒 **Privacy-first** — 100% local execution, data never leaves your machine
+- 🔧 **MCP tool integration** — filesystem, terminal, Kubernetes, Notion, and more
+- 🔄 **Adaptive orchestration** — autonomously pivots strategy based on real-time feedback
