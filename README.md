@@ -37,3 +37,13 @@ A privacy-first, on-device AI agent that executes complex multi-step tasks using
 - **Privacy-first** — 100% local execution, data never leaves your machine
 - **MCP tool integration** — filesystem, terminal, Kubernetes, Notion, and more
 - **Adaptive orchestration** — autonomously pivots strategy based on real-time feedback
+
+## [Ragnarok](https://github.com/fidemin/ragnarok)
+> A simple and understandable deep learning framework built from scratch.
+
+A lightweight educational framework to demystify how neural networks actually work — from tensor operations and autograd to layers, optimisers, and training loops.
+
+- **Pure Python & NumPy** — minimal dependencies
+- **Autograd engine** — automatic differentiation from first principles
+- **Layers, activations & optimisers** — SGD, Adam, and more
+- **Readable, modular codebase** — built for learning, not abstraction
